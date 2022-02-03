@@ -3,6 +3,7 @@
   <remote name="origin" fetch=".." review="" />
   <default revision="main" remote="origin" sync-j="1" />
   <project name=".github.git" path="github" />
+  <project name="demo.git" path="demo" />
   <project name="devops-metalflow.github.io.git" path="devops-metalflow.github.io" />
   <project name="metalbeat.git" path="metalbeat" />
   <project name="metalflow.git" path="metalflow" />
