@@ -8,6 +8,7 @@
   <project name="metalbeat.git" path="metalbeat" />
   <project name="metalflow.git" path="metalflow" />
   <project name="metalmetrics.git" path="metalmetrics" />
+  <project name="metalsecure.git" path="metalsecure" />
   <project name="metaltask.git" path="metaltask" />
   <project name="metaltune.git" path="metaltune" />
   <project name="metalweb.git" path="metalweb" />
